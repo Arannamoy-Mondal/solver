@@ -10,4 +10,8 @@ class SolverApplicationTests {
 	void contextLoads() {
 	}
 
-}
+	@Test
+	void test1(){
+	 System.out.println("Ok");	
+    }
+]
